@@ -24,7 +24,7 @@ Suppose the ROS catkin workspace is `~/simulation/ros_catkin_ws/`.
 ## Make
 ```
 cd ~/simulation/ros_catkin_ws/
-catkin_make --pkg velocity_ex1
+catkin_make --pkg velocity_cmd
 ```
 ## Run
 ```
