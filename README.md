@@ -22,8 +22,10 @@ Suppose the ROS catkin workspace is `~/simulation/ros_catkin_ws/`.
 `gedit ~/simulation/ros_catkin_ws/src/velocity_cmd/velocity_cmd.cpp`
 
 ## Make
-`cd ~/simulation/ros_catkin_ws/`
-`catkin_make --pkg velocity_ex1`
+```
+cd ~/simulation/ros_catkin_ws/
+catkin_make --pkg velocity_ex1
+```
 ## Run
 ```
 roscore
