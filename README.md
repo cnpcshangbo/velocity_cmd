@@ -1,6 +1,8 @@
 # velocity_cmd
 
 [![Join the chat at https://gitter.im/velocity_cmd/Lobby](https://badges.gitter.im/velocity_cmd/Lobby.svg)](https://gitter.im/velocity_cmd/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# Introduction
 This project send topic to set velocity to ardupilot via mavros and displays actual (gps) velocity. 
 Those information are useful for system identification for velocity model.
 This project is originally made to work with the following tutorial for identification of the velocity model.
