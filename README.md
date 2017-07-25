@@ -31,7 +31,7 @@ catkin_make --pkg velocity_cmd
 roscore
 cd ~/simulation/ros_catkin_ws/
 source ./devel/setup.bash 
-rosrun velocity_ex1 velocity_cmd 
+rosrun velocity_cmd velocity_cmd 
 ```
 
 ## Topic echo
